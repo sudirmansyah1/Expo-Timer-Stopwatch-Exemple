@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19001,
+  "packagerPid": 4712,
+  "devToolsPort": 19002,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://49-u6w.sudirmansyah.timer.exp.direct",
+  "packagerNgrokUrl": "https://packager.49-u6w.sudirmansyah.timer.exp.direct",
+  "ngrokPid": 7812,
+  "webpackServerPort": 19006
+}

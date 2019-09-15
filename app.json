@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Timer And Stopwatch",
+    "slug": "Timer",
+    "privacy": "public",
+    "sdkVersion": "34.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.2.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo2.png",
+    "splash": {
+      "image": "./assets/logo2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFC400"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.sudirmansyah.timer"
+    }
+  }
+}
