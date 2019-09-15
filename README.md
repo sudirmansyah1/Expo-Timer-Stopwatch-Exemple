@@ -5,7 +5,7 @@ Ini adalah project timer dan stopwatch yang dibuat dengan menggunakan Expo React
 - Install terlebih dahulu expo-cli
 Pastikan anda sudah memasang node.js
 `$ npm install -g expo-cli`
--Jika installasi gagal silahkan install yarn pada komputer anda lalu coba dengan
+Jika installasi gagal silahkan install yarn pada komputer anda lalu coba dengan
 `$ yarn add global expo-cli`
  
 - Silahkan clone repository
