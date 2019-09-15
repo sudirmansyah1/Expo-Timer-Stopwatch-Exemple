@@ -1,21 +1,21 @@
 # Expo Timer Stopwatch Exemple
 Ini adalah project timer dan stopwatch yang dibuat dengan menggunakan Expo React Native, project ini adalah project aplikasi yang dibuat untuk android maupun iOS 
 
-##Cara install
+## Cara install
 - Install terlebih dahulu expo-cli
- Pastikan anda sudah memasang node.js
- `$ npm install -g expo-cli`
- Jika installasi gagal silahkan install yarn pada komputer anda lalu coba dengan
- `$ yarn add global expo-cli`
+Pastikan anda sudah memasang node.js
+`$ npm install -g expo-cli`
+-Jika installasi gagal silahkan install yarn pada komputer anda lalu coba dengan
+`$ yarn add global expo-cli`
  
- - Silahkan clone repository
- `$ git clone https://github.com/sudirmansyah1/Expo-Timer-Stopwatch-Exemple.git`
+- Silahkan clone repository
+`$ git clone https://github.com/sudirmansyah1/Expo-Timer-Stopwatch-Exemple.git`
  
- - Silahkan masuk ke folder repository yang telah anda download lalu install dengan cara
- `$ npm install` atau `$ yarn install`
+- Silahkan masuk ke folder repository yang telah anda download lalu install dengan cara
+`$ npm install` atau `$ yarn install`
  
- - Silahkan jalankan dengan cara
- `$ npm start` atau `$ yarn start` atau `$ expo start`
+- Silahkan jalankan dengan cara
+`$ npm start` atau `$ yarn start` atau `$ expo start`
 
 - Install Expo pada Android atau iOS anda
 
@@ -25,11 +25,11 @@ Ini adalah project timer dan stopwatch yang dibuat dengan menggunakan Expo React
 `$ expo build:android`
 
 
-##Demo
+## Demo
 ![Scan at Exoi on your Android or iOS](https://i.postimg.cc/gkG26LcD/download.png "Scan at Exoi on your Android or iOS")
 
 
-##Screenshot
+## Screenshot
 ![When application launch](https://i.postimg.cc/fbzPcZt1/Screenshot-1568510523.png "When application launch")
 
 ![](https://i.postimg.cc/jjMFv9y2/Screenshot-1568510529.png)
